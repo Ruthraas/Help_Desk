@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Thumbnail.png" alt="Thumbnail do projeto Help Desk" width="100%" />
-</p>
-
 <h1 align="center">Help Desk</h1>
 
 <p align="center">
